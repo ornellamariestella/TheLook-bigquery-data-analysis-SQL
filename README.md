@@ -12,9 +12,9 @@ As part of my journey into the world of data, I have created this repo to showca
 
 I have conducted a, analysis targeting three main areas: 
 
-- [Customer Insights](https://github.com/ornellamariestella/bigquery-sql-project/blob/main/Customer%20insights/overview_and_insights.md)
-- [Order Status](https://github.com/ornellamariestella/bigquery-sql-project/blob/main/Order%20status/overview_and_insights.md)
-- [Delivery Timeframes](https://github.com/ornellamariestella/bigquery-sql-project/blob/main/Delivery%20timeframes/overview_and_insights.md)
+- [Customer Insights](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/01-Customer-Insights/01-Overview-and-Insights.md)
+- [Order Status](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/02-Order-Status/02-Overview_and_Insights.md)
+- [Delivery Timeframes](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/03-Delivery-Timeframes/03-Overview-and-Insights.md)
 
 For each area, I have answered a few business questions through the use of data. Click on each folder to browse through my insights :blush:
 
