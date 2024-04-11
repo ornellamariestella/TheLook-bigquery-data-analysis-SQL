@@ -10,13 +10,13 @@ As part of my journey into the world of data, I have created this repo to showca
 
 ## The analysis
 
-I have conducted a, analysis targeting three main areas: 
+I have conducted my data analysis targeting three main areas: 
 
 - [Customer Insights](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/01-Customer-Insights/01-Overview-and-Insights.md)
 - [Order Status](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/02-Order-Status/02-Overview_and_Insights.md)
 - [Delivery Timeframes](https://github.com/ornellamariestella/thelook-bigquery-sql-project/blob/main/03-Delivery-Timeframes/03-Overview-and-Insights.md)
 
-For each area, I have answered a few business questions through the use of data. Click on each folder to browse through my insights :blush:
+For each area, I have answered a few business questions. Click on each folder to have a look :blush:
 
 ## The dataset
 
